@@ -1,1 +1,0 @@
-<h1>Hei, Bærum jazzfestival</h1>
